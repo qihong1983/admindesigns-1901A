@@ -5,7 +5,7 @@
 ### 次料下载
 
 #### 方式一
-- https://github.com/qihong1983/admindesigns-1901A.git
+- git clone https://github.com/qihong1983/admindesigns-1901A.git
 
 
 #### 方式二
